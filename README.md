@@ -1,1 +1,3 @@
 # daegu-apartment
+
+This project focuses on analyzing a dataset of apartment information for an Artificial Intelligence & Basic Data Science course's final project. The goals include determining the factors that significantly impact apartment prices, comparing price differences between pre-2000 and post-2000 apartments, identifying peak sales periods, examining apartment price trends and patterns, and developing predictive models for classifying family-friendly apartments and estimating price per square foot. The project encompasses exploratory data analysis, statistical analysis, and machine learning modeling.
